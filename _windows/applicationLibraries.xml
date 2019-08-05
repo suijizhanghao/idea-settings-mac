@@ -1,5 +1,13 @@
 <application>
   <component name="libraryTable">
+    <library name="jdk1.8">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/01_dvlp/Java/jdk1.8.0_201" />
+      </SOURCES>
+      <jarDirectory url="file://D:/01_dvlp/Java/jdk1.8.0_201" recursive="false" type="SOURCES" />
+    </library>
     <library name="Python 3.7 (Introduction to Python) interpreter library">
       <CLASSES>
         <root url="file://D:/01_dvlp/python3.7.2/DLLs" />

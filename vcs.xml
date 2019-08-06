@@ -8,6 +8,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\03_myfun\myproject" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/myfun" />
   </component>
 </application>

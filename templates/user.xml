@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="&lt;abbreviation&gt;" value="*&#10; * @Author : M &#10; * @Date : $DATE$ $TIME$&#10; * @Description : $END$&#10; */" toReformat="false" toShortenFQNames="true">
+  <template name="&lt;abbreviation&gt;" value="*&#10; * @Author : M &#10; * @Date : $DATE$ $TIME$&#10; * @Description : $END$&#10; */" description="" toReformat="false" toShortenFQNames="true">
     <variable name="DATE" expression="" defaultValue="" alwaysStopAt="false" />
     <variable name="TIME" expression="" defaultValue="" alwaysStopAt="false" />
   </template>

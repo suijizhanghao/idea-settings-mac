@@ -396,7 +396,7 @@
       <regional-settings>
         <date-format value="MEDIUM" />
         <number-format value="UNGROUPED" />
-        <locale value="SYSTEM_DEFAULT" />
+        <locale value="zh_CN_#Hans" />
         <use-custom-formats value="false" />
       </regional-settings>
       <environment>

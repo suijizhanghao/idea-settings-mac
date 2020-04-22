@@ -12,6 +12,7 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="CUSTOM_SOFT_WRAP_INDENT" value="100" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
   </component>
   <component name="SqlCodeCompletionSettings" AUTO_ALIAS_TABLE="true">
